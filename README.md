@@ -1,1 +1,1 @@
-# UC6 - OOPS String Patter
+# UC6 - OOPS String Pattern
